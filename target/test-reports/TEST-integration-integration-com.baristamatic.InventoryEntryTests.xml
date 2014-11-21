@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="dsday3636" name="com.baristamatic.InventoryEntryTests" tests="1" time="0.062" timestamp="2010-10-05T17:19:11">
+  <properties />
+  <testcase classname="com.baristamatic.InventoryEntryTests" name="testSave" time="0.047" />
+  <system-out><![CDATA[--Output from testSave--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSave--
+]]></system-err>
+</testsuite>

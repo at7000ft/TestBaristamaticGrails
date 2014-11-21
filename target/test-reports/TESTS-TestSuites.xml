@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="dsday3636" id="0" name="DrinkTests" package="com.baristamatic" tests="1" time="0.937" timestamp="2010-10-05T17:19:10">
+      <properties />
+
+      <testcase classname="com.baristamatic.DrinkTests" name="testSave" time="0.937" />
+
+      <system-out><![CDATA[--Output from testSave--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSave--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="dsday3636" id="1" name="InventoryEntryTests" package="com.baristamatic" tests="1" time="0.062" timestamp="2010-10-05T17:19:11">
+      <properties />
+
+      <testcase classname="com.baristamatic.InventoryEntryTests" name="testSave" time="0.047" />
+
+      <system-out><![CDATA[--Output from testSave--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSave--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
